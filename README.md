@@ -109,7 +109,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL: ](https://your-solution-url.com)
+- [Solution URL: ](https://github.com/Mohsin-93/QR-Code-Components-HTML-CSS-)
 - [Live Site URL: ](https://mohsin-93.github.io/QR-Code-Components-HTML-CSS-/)
 
 
