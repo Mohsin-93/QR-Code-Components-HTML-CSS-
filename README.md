@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+<!-- # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
@@ -84,4 +84,54 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** 🚀
+**Have fun building!** 🚀 -->
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+### Screenshot
+
+![](./screenshots/desktop-view.png)
+![](./screenshots/mobile-view.png)
+
+
+### Links
+
+- [Solution URL: ](https://your-solution-url.com)
+- [Live Site URL: ](https://mohsin-93.github.io/QR-Code-Components-HTML-CSS-/)
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Grid
+
+
+### What I learned
+
+I used Media query, CSS Grid and widths in percentages.
+
+
+### Continued development
+
+Must explore CSS Grid.
+
+
+## Author
+
+- Frontend Mentor - [@Mohsin-93](https://www.frontendmentor.io/profile/Mohsin-93)
+
+
