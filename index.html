@@ -15,7 +15,7 @@
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
     html,
-    body {
+    body, main {
       background-color: hsl(212, 45%, 89%);
       height: 100%;
       display: grid;
@@ -23,17 +23,16 @@
 
     }
 
-/*  Using display:flex
+    /* Using display:flex
     body {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-    min-height: 100vh;
-}
-    */
+      margin: 0;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: center;
+      min-height: 100vh;
+    } */
 
     .card {
       margin: auto auto;
@@ -45,18 +44,21 @@
 
     }
 
-    @media screen and (300px < width <= 375px) {
+    @media screen and (300px < width <=375px) {
       .card {
         min-width: unset;
         width: 89%;
+        /* background-color: blueviolet; */
       }
     }
-    @media screen and (width <= 30px) {
+
+    @media screen and (width <=30px) {
       .card {
         min-width: unset;
         width: 97%;
       }
     }
+
     .card img {
       margin: 5%;
       border-radius: 4.5%;
@@ -91,13 +93,14 @@
 </head>
 
 <body>
-<!-- <Main>   or use <div role="main"> -->
-  <div class="card" role="main">
-    <img src="images/image-qr-code.png" alt="QR-Code">
-    <h2> Improve your front-end skills by building projects</h2>
-    <p> Scan the QR code to visit Frontend Mentor and take your coding skills to the next level </p>
-  </div>
-<!-- </Main> -->
+
+  <main> <!--  OR <div role="main"> -->
+    <div class="card">
+      <img src="images/image-qr-code.png" alt="QR-Code">
+      <h2> Improve your front-end skills by building projects</h2>
+      <p> Scan the QR code to visit Frontend Mentor and take your coding skills to the next level </p>
+    </div>
+  </main>
 
 
   <!-- <div class="attribution">
@@ -106,7 +109,7 @@
   </div> -->
 </body>
 
-</html> -->
+</html>
 </body>
 
 </html>
